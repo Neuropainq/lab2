@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\nsasa\Desktop\learn\Основы параллельных вычислений\lab1\ConsoleApplication1\ConsoleApplication1.cpp(47,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\nsasa\Desktop\learn\Основы параллельных вычислений\lab1\ConsoleApplication1\ConsoleApplication1.cpp(48,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\nsasa\Desktop\learn\Основы параллельных вычислений\lab1\x64\Debug\ConsoleApplication1.exe
